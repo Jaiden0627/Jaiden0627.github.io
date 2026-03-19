@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Hankuk Academy Of Foreign Studies"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hyun Jun Kim / Hyun Jun Kim"
+title                    : "Hyun Jun Kim"/ "Hyun Jun Kim"
 title_separator          : "-"
 name                     : &name "Hyun Jun Kim"
 description              : &description "Hyun Jun Kim's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
