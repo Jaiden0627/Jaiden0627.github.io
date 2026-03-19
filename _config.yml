@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Hankuk Academy Of Foreign Studies"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hyun Jun Kim"/ "Hyun Jun Kim"
+title                    : "Hyun Jun Kim"
 title_separator          : "-"
 name                     : &name "Hyun Jun Kim"
 description              : &description "Hyun Jun Kim's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hyun Jun Kim"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Yongin, South Korea"
+  employer         : "Hankuk Academy of Foreign Studies"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "021107@hafs.hs.kr" 
 
   # Academic websites
   academia         : # URL
