@@ -23,9 +23,10 @@ Tidal Flats
 ------
 경기 과학 전람회
 
-Alpha Fold(단백질 구조 예측)
+Alpha Fold(단백질 구조 예측)--> Bio Infromatic EC
 ------
 TS Yoon ET
+레츠고 ㅜㅗㅜ
 
 Halophyte
 ------
