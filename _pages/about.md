@@ -37,5 +37,5 @@ jskd
 
 INHA UNIVERSITY INTERNSHIPs
 ------
-
+![f1 좋아](/images/f1.jpg)
 
