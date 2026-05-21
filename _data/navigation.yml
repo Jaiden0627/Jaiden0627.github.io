@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "About Me"
+    url: https://sites.google.com/hafs.hs.kr/hyunjun-kim/%ED%99%88?authuser=0
 
   - title: "Talks"
     url: /talks/    
